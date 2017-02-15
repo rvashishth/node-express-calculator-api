@@ -8,7 +8,5 @@ Method: GET
 Response: application/json
 
 =====
-1. install project dependencies
-npm install
-2. run porject
-npm run devStart
+1. npm install
+2. npm run devStart
